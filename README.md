@@ -47,7 +47,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo **Ysrael Rayah**, tenho **12 anos** e sou do **Juazeiro do Norte**. Atualmente, estou aprendendo **Desenvolvimento Web**. Amo tecnologia e por isso aprendi programação. Para acompanhar meus posts, me siga no instagram: [RaelDev](https://www.instagram.com/raeldev_/).
+> Me chamo **Ysrael Rayah**, tenho **12 anos** e sou do **Juazeiro do Norte**. Atualmente, estou aprendendo **Desenvolvimento Web**. Amo tecnologia e por isso aprendi programação. Para acompanhar meus posts, me siga no instagram: [RaelDev](https://www.instagram.com/raeldev_/).
 
 <p align="left">
     <a href="https://www.instagram.com/raeldev_">
@@ -65,6 +65,18 @@ Me chamo **Ysrael Rayah**, tenho **12 anos** e sou do **Juazeiro do Norte**. Atu
         />
     </a>
 </p>
+<br>
+
+---
+
+### 💌 Contato
+
+> Olá, deseja se comunicar comigo para possiveis ações ou ajuda, acesse um de meus meios de contatos abaixo
+
+<h4>Meios de contato</h4>
+
+┃ Instagram: [raeldev_](https://instagram.com/raeldev_) <br>
+┃ E-mail: [ysraelrayah22@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ysraelrayah22@gmail.com)
 
 ---
 
@@ -85,5 +97,6 @@ Me chamo **Ysrael Rayah**, tenho **12 anos** e sou do **Juazeiro do Norte**. Atu
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelrayah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+
