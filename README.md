@@ -57,7 +57,7 @@
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=C13584&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&labelColor=C13575"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ysraelrayah?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -82,6 +82,8 @@
 
 ### 📊 Estatísticas
 
+> Atuais estatísticas do meu GitHub
+
 <p>
   <img 
     align="left" 
@@ -97,6 +99,5 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysraelrayah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
-
-
